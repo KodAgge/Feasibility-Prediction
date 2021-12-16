@@ -1,0 +1,12 @@
+pandas
+numpy
+plotnine
+plotly
+tabulate
+pytorch
+coral_pytorch
+tqdm
+tabulate
+scipy
+sklearn
+mtat

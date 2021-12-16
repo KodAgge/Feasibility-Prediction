@@ -1,0 +1,10 @@
+variable,average,std,95.0% PI,min,max
+weighted accuracy [%],50.32,0.38,"(50.05, 50.59)",49.82,50.98
+duration [s],11.48,0.17,"(11.36, 11.6)",11.24,11.77
+infeasible_percentage [%],82.56,2.4,"(80.85, 84.28)",77.25,85.45
+infeasible_guessed_percentage [%],97.68,2.7,"(95.74, 99.61)",91.41,100.0
+feasible_recall [%],2.84,3.03,"(0.67, 5.0)",0.0,9.0
+feasible_precision [%],20.74,15.48,"(9.67, 31.81)",0.0,50.0
+infeasible_recall [%],97.8,2.65,"(95.9, 99.69)",91.5,100.0
+infeasible_precision [%],82.66,2.33,"(80.99, 84.33)",77.47,85.42
+auc of roc,0.47,0.01,"(0.46, 0.48)",0.44,0.5
