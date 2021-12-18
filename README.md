@@ -21,7 +21,7 @@
 ```
 --------
 
-<p><small>Project structure based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project structure based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a></small></p>
 
 ## Executive summary
 To solve a constrained non-linear optimization problem, a evolutionary algorithm is used. Due to the nature of the problem, labeling solutions as feasible or non-feasible turns out to be computationally heavy. Thus, this projects looks at to see if machine learning algorithms could be used to filter out non-feasible solutions. For this, a wide range of both supervised and unsupervised machine learning methods were studied. Unfortunately, no method yielded fruitful result. This is most likely due to the evolutionary algorithm advancing towards the optimum in iterational steps which were to long leading to an the ML algortithms needing to extrapolate predication in combination with the non-linear constraints being to complex. 
