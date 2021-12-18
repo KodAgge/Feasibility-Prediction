@@ -62,4 +62,4 @@ As the project consists of exploring a range of ML methods, we have developed a 
 - [LinkedIn profile](https://www.linkedin.com/in/bojs/)
 
 **Ludvig Wärnberg Gerdin**
-- [LinkedIn profile](https://www.linkedin.com/in/ludvig-w%C3%A4rnberg-gerdin-0a352715b/)
+- [LinkedIn profile](www.linkedin.com/in/ludvigwgerdin)
